@@ -14,7 +14,7 @@ Un générateur simple de Pokémon qui affiche un Pokémon aléatoire avec son i
 - HTML
 - CSS
 - JavaScript (Vanilla)
-- API PokéAPI
+- [PokéAPI](https://pokeapi.co/) - API RESTful pour les données Pokémon
 
 ## Comment utiliser
 
