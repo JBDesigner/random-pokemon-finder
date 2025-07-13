@@ -28,7 +28,7 @@ Un générateur simple de Pokémon qui affiche un Pokémon aléatoire avec son i
 
 **Jimmy Brand(JBDesigner)** - *Développeur passionné*
 
-📧 [votre.email@example.com](jimmybrand95@gmail.com)  
+📧 [jimmybrand95@gmail.com](jimmybrand95@gmail.com)  
 🔗 [GitHub](https://github.com/JBDesigner)  
 💼 [LinkedIn](https://www.linkedin.com/in/jimmy-brand-4a1604256/)
 
